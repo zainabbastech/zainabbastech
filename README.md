@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain Abbas</h1>
-<h3 align="center">Computer Scientist | Problem Solver | MERN Developer</h3>
+<h3 align="center">Software Engineer | MERN Stack Expert | Tech Enthusiast</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=zainabbastech&label=Profile%20views&color=0e75b6&style=flat" alt="zainabbastech" /> 
