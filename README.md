@@ -179,6 +179,7 @@
 </p>
 
 <br/>
+<hr/>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabbastech&show_icons=true&locale=en" alt="zainabbastech" />
 </p>
