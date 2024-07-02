@@ -13,8 +13,6 @@
 
 - I’m currently working on building scalable and efficient web applications using the MERN stack (MongoDB, Express.js, React, Node.js), along with leveraging AWS and Docker for cloud solutions and containerized deployments.🔭 **Basata**
 
-- 👨‍💻 All of my projects are available at [zainabbaskhakhi.com](zainabbaskhakhi.com)
-
 - 💬 Ask me about web development with the MERN stack, cloud deployment with AWS, containerization with Docker, and best practices in software development.
   - **Technologies:**
     - React
