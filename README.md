@@ -146,9 +146,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainabbastech&show_icons=true&locale=en&layout=compact" alt="zainabbastech" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabbastech&show_icons=true&locale=en" alt="zainabbastech" />
-</p>
+
+<!--   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainabbastech&show_icons=true&locale=en" alt="zainabbastech" /> -->
+<!-- </p> -->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainabbastech&" alt="zainabbastech" />
