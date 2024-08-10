@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋 I'm Zain Abbas</h1>
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=zainabbastech&label=Profile%20views&color=0e75b6&style=flat" alt="zainabbastech" /> 
-</p>
+
+
 
 - I’m currently working on building scalable and efficient web applications using the MERN stack (MongoDB, Express.js, React, Node.js), along with leveraging AWS and Docker for cloud solutions and containerized deployments.🔭 **Basata**
 
