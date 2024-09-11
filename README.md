@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **zainabbaskhakhi123@gmail.com**
 
-- 📄 Know about my experiences: With four years of experience as a MERN developer, I have worked on various projects that involved building full-stack applications, cloud deployments with AWS, and containerization with Docker. My experience also includes collaborating with cross-functional teams to deliver high-quality software solutions. [https://drive.google.com/file/d/1rXmP_N9Z396Ypczy_Tp3ITPEMsPi-df-/view?usp=drive_link])
+- 📄 Know about my experiences: With four years of experience as a MERN developer, I have worked on various projects that involved building full-stack applications, cloud deployments with AWS, and containerization with Docker. My experience also includes collaborating with cross-functional teams to deliver high-quality software solutions. [https://drive.google.com/file/d/1q4U3xMKOk7D_8HynUJntBrszzm7hp_TY/view?usp=drive_link])
 
 - ⚡ Fun fact **When I'm not coding, I enjoy working out at the gym and love playing table tennis.**
 
